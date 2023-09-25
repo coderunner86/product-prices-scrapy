@@ -4,7 +4,7 @@ from urllib.parse import urlencode
 from urllib.parse import urljoin
 import re
 import json
-queries = ['tshirt for men']    ##Enter keywords here ['keyword1', 'keyword2', 'etc']
+queries = ['raspberry pi']    ##Enter keywords here ['keyword1', 'keyword2', 'etc']
 API = 'bc176846df0a6e40f71bd8f370a4467e'                        ##Insert Scraperapi API key here. Signup here for free trial with 5,000 requests: https://www.scraperapi.com/signup
 
 
